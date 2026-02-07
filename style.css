@@ -32,11 +32,12 @@
 .commands-title {
   text-align: center;
   font-family: 'Courier New', 'Lucida Console', monospace;
-  color: #f7df1e; /* Changed to yellow for contrast */
+  color: #f7df1e; 
 }
 
 .commands-list {
   text-align: center;
+  list-style-position: inside; 
   font-family: 'Source Code Pro', 'Courier New', monospace;
   background-color: rgba(0, 0, 0, 0.2);
   padding: 20px;
